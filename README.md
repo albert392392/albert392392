@@ -9,7 +9,6 @@
   <a href="mailto:albert392392@gmail.com"><img src="https://img.shields.io/badge/Email-albert392392%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   <a href="https://t.me/imanmansouri1/"><img src="https://img.shields.io/badge/Telegram-@imanmansouri1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://instagram.com/albert.net01"><img src="https://img.shields.io/badge/Instagram-@albert.net01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://gametopia.ir/"><img src="https://img.shields.io/badge/Portfolio-gametopia.ir-8A2BE2?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
 </p>
 
 </div>
@@ -140,6 +139,6 @@ Whether you're looking to build autonomous multi-agent infrastructure, low-laten
 [![Email](https://img.shields.io/badge/Email-albert392392%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert392392@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@imanmansouri1-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/imanmansouri1/)
 [![Instagram](https://img.shields.io/badge/Instagram-@albert.net01-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/albert.net01)
-[![Website](https://img.shields.io/badge/Website-gametopia.ir-black?style=flat-square&logo=safari&logoColor=white)](https://gametopia.ir/)
+[![GitHub](https://img.shields.io/badge/GitHub-albert392392-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/albert392392)
 
 </div>
