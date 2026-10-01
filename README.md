@@ -3,7 +3,7 @@
 # ⚡ Albert (Iman Mansour)
 ### **AI Systems Engineer & Autonomous Agent Architect**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Autonomous+Multi-Agent+Swarms;Real-Time+Multimodal+AI+(Audio+%26+Vision);Enterprise+Distributed+RAG+Systems;16%2B+Production-Grade+Shipped+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Autonomous+Multi-Agent+Swarms;Real-Time+Multimodal+AI+(Audio+%26+Vision);Enterprise+Distributed+RAG+Systems;18%2B+Production-Grade+Shipped+Projects)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:albert392392@gmail.com"><img src="https://img.shields.io/badge/Email-albert392392%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
@@ -20,7 +20,7 @@
 
 I am an **AI Systems Engineer & Distributed Architect** specializing in production autonomous agent swarms, sub-second multimodal pipelines (audio/vision loopback), and enterprise microservices.
 
-Over the past years, I have architected and shipped **16+ comprehensive software systems** spanning autonomous agent automation factories, real-time speech translation HUDs, multimodal desktop companions, enterprise fintech platforms, and physics-driven 3D/2D games.
+Over the past years, I have architected and shipped **18+ comprehensive software systems** spanning autonomous agent automation factories, real-time speech translation HUDs, multimodal desktop companions, enterprise fintech platforms, and physics-driven 3D/2D games.
 
 I focus heavily on **the gap between raw foundation models and resilient production execution**: deterministic state machines, token budget management, Celery message priority queues, vector retrieval (RAG) validation, sub-millisecond hot-loop optimization, and empirical zero-hallucination defense.
 
@@ -28,7 +28,7 @@ I focus heavily on **the gap between raw foundation models and resilient product
 
 ---
 
-## 🚀 Complete Engineering Portfolio (All 16 Projects)
+## 🚀 Complete Engineering Portfolio (All 18 Projects)
 
 ### 🧠 I. Autonomous AI Systems & Multi-Agent Swarms
 
@@ -169,12 +169,28 @@ I focus heavily on **the gap between raw foundation models and resilient product
   - Branching merge item generator trees, energy recovery loops, and resilient local state persistence.
 - **Access:** 🔒 *Private Repository*
 
-#### 16. Bus Jam Case
-- **Domain:** 3D Spatial Pathfinding & Crowd Routing Puzzle
-- **Tech Stack:** `Unity 3D` • `C#` • `A* Grid Pathfinding` • `Obstacle Avoidance`
+#### 16. Bus Jam Case (Bus Escape)
+- **Domain:** 3D Spatial Pathfinding & Crowd Routing Mobile Puzzle
+- **Tech Stack:** `Unity 3D` • `C#` • `A* Grid Pathfinding` • `Obstacle Avoidance` • `Mobile Optimization`
 - **Core Architecture:**
-  - Multi-agent queue routing, grid-based parking slot reservation, and real-time obstacle avoidance.
+  - Multi-agent queue routing, grid-based parking slot reservation, dynamic vehicle obstacle evaluation, and lightweight collision detection avoiding heavy physics engine overhead to maintain 60 FPS on budget mobile devices.
 - **Access:** 🔒 *Private Repository*
+
+#### 17. Blood Castle / Design Villa (Mina’s Villa)
+- **Domain:** Casual Room Renovation & Spatial Puzzle Mobile Game
+- **Tech Stack:** `Unity 2D` • `C#` • `State Machine (FSM)` • `Modular Decoration` • `Texture Streaming`
+- **Core Architecture:**
+  - Developed for Bomb Game Studio: modular furniture placement architecture allowing non-coders to add rooms/furniture, state machines managing asset transition phases, and staged memory profiling for budget Android devices.
+- **Access:** 🔒 *Private Repository*
+
+#### 18. Parsa (پارسا) — Commercial Action Mobile Game 🚀
+- **Domain:** Commercial Action Mobile Game (Live on Cafe Bazaar & Myket)
+- **Tech Stack:** `Unity` • `C#` • `Android Architecture` • `Cafe Bazaar SDK` • `Player State Persistence`
+- **Core Architecture:**
+  - Shipped commercial title for Bomb Game Studio with thousands of active downloads: engineered core gameplay loops, character animation state controllers, reactive UI data bindings, and resilient local player persistence.
+  - Hardened Android multi-version performance, resolved device-specific crashes, executed production release builds, and published officially on app stores.
+- **Live Store Link:** 🚀 [دانلود بازی پارسا از کافه‌بازار (Cafe Bazaar)](https://cafebazaar.ir/app/com.BombCompany.ParsaGame)
+- **Access:** 📦 *Official Commercial Store Release*
 
 ---
 
